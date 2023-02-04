@@ -11,4 +11,8 @@
 **Ссылка на репозиторий тут**
 https://github.com/bogatovad/Async_API_sprint_1
 
+Внутри него также есть ссылки на сервисы 
 
+**Ссылки на сервисы**
+https://github.com/bogatovad/Async_API_sprint_1
+https://github.com/bogatovad/new_admin_panel_sprint_3
